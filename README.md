@@ -1,4 +1,4 @@
-# 🚀 Job-Khoji - AI-Powered Job Portal & Recruitment Platform
+# 🚀 Hirey-Wirey - AI-Powered Job Portal & Recruitment Platform
 
 [![Node.js](https://img.shields.io/badge/Node.js-18.x-green.svg)](https://nodejs.org/)
 [![React](https://img.shields.io/badge/React-18.x-blue.svg)](https://reactjs.org/)
@@ -84,7 +84,7 @@ A modern, full-stack job portal with AI-powered resume analysis, candidate ranki
 ## 📁 Project Structure
 
 ```
-job-khoji/
+hirey-wirey/
 ├── backend/                 # Node.js Express server
 │   ├── controllers/         # Route controllers
 │   │   ├── application.controller.js
@@ -176,8 +176,8 @@ job-khoji/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/syedmozamilshah/job-khoji.git
-cd job-khoji
+git clone https://github.com/syedmozamilshah/Hirey-Wirey.git
+cd Hirey-Wirey
 ```
 
 ### 2. Install Dependencies
@@ -207,9 +207,9 @@ Create `.env` files in the respective directories:
 #### Backend (.env)
 ```env
 PORT=8000
-MONGO_URI=mongodb://localhost:27017/job-khoji
+MONGO_URI=mongodb://localhost:27017/hirey-wirey
 # OR for MongoDB Atlas:
-# MONGO_URI=mongodb+srv://username:password@cluster.mongodb.net/job-khoji
+# MONGO_URI=mongodb+srv://username:password@cluster.mongodb.net/hirey-wirey
 
 JWT_SECRET_KEY=your-super-secret-jwt-key-here
 NODE_ENV=development
@@ -469,8 +469,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For support and questions:
 
 - **Email**: syedmozamilshah99@gmail.com
-- **GitHub Issues**: [Create an issue](https://github.com/syedmozamilshah/job-khoji/issues)
-- **Documentation**: [Project Wiki](https://github.com/syedmozamilshah/job-khoji/wiki)
+- **GitHub Issues**: [Create an issue](https://github.com/syedmozamilshah/Hirey-Wirey/issues)
+- **Documentation**: [Project Wiki](https://github.com/syedmozamilshah/Hirey-Wirey/wiki)
 
 ## 🎯 Roadmap
 
@@ -492,4 +492,4 @@ For support and questions:
 
 **Made with ❤️ by Syed Mozamil Shah**
 
-For more information, visit the [GitHub repository](https://github.com/syedmozamilshah/job-khoji) or connect with me on [GitHub](https://github.com/syedmozamilshah).
+For more information, visit the [GitHub repository](https://github.com/syedmozamilshah/Hirey-Wirey) or connect with me on [GitHub](https://github.com/syedmozamilshah).
